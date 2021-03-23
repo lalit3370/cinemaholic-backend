@@ -1,2 +1,2 @@
 # cinemaholic-backend
-Frontend for Cinemaholic
+Backend for Cinemaholic
