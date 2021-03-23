@@ -1,0 +1,19 @@
+{
+  "name": "cinemaholic-backend",
+  "version": "1.0.0",
+  "description": "backend for cinemaholic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalit3370/cinemaholic-backend.git"
+  },
+  "author": "lalit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalit3370/cinemaholic-backend/issues"
+  },
+  "homepage": "https://github.com/lalit3370/cinemaholic-backend#readme"
+}
